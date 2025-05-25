@@ -3,4 +3,5 @@ httpx==0.28.1
 pydantic==2.11.5
 SQLAlchemy==2.0.30
 uvicorn==0.34.2
+pip install --upgrade pip
 pip install psycopg2-binary
